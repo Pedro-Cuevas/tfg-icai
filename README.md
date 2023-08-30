@@ -2,7 +2,7 @@
 
 Welcome to the repository for my Trabajo Fin de Grado (TFG) project. This project consists of several components, each vital to the functionality and user experience. Here's a brief overview of the directory structure and the purpose of each component:
 
-## Directory Structure
+## Estructura de archivos
 
 ### 1. `backend`
 

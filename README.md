@@ -1,6 +1,6 @@
 # Sistema de Verificación de Credenciales Profesionales Basado en Blockchain Privado
 
-Welcome to the repository for my Trabajo Fin de Grado (TFG) project. This project consists of several components, each vital to the functionality and user experience. Here's a brief overview of the directory structure and the purpose of each component:
+Bienvenido al repositorio de mi proyecto Trabajo Fin de Grado (TFG). Este proyecto consta de varios componentes, cada uno de los cuales es vital para la funcionalidad y la experiencia del usuario. A continuación se ofrece una breve descripción general de la estructura del directorio y el propósito de cada componente:
 
 ## Estructura de archivos
 
